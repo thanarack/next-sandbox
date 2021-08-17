@@ -5,7 +5,7 @@ export default function IndexPage() {
     <div>
       Hello World.{" "}
       <Link href="/about">
-        <a>About</a>
+        <a>Aboutsss</a>
       </Link>
     </div>
   );
